@@ -17,7 +17,7 @@ I'm a second-year **Software Design & Development** student passionate about cre
 - 🎓 **Major:** Software Design & Development (2nd year)
 - 💼 **Focus:** Backend Development
 - 📧 **Contact:** [josepdanton1518@gmail.com](mailto:josepdanton1518@gmail.com)
-- 🌐 **Portfolio:** [View my work](http://google.com)
+- 🌐 **Portfolio:** [View my work]([http://google.com](https://portfolio-zeta-five-f7bmxvyh4b.vercel.app/))
 
 ---
 
