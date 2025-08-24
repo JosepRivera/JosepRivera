@@ -107,13 +107,11 @@ I'm a second-year **Software Design & Development** student passionate about cre
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JosepRivera&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepRivera&theme=radical" alt="GitHub Streak" />
-  <br/>
 
 </div>
+<br clear="both"/>
 
 ---
 
@@ -121,4 +119,5 @@ I'm a second-year **Software Design & Development** student passionate about cre
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Goodbye!&fontSize=20&fontColor=fff&animation=fadeIn" />
   <br/>
+  
 </div>
