@@ -118,12 +118,6 @@ I'm a second-year **Software Design & Development** student passionate about cre
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Goodbye!&fontSize=20&fontColor=fff&animation=fadeIn" />
   <br/>
