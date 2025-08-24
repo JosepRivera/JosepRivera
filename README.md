@@ -23,9 +23,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
 
 ## 🛠️ Technologies and Tools
 
-<table>
+<table style="border: none;">
 <tr>
-  <td width="50%" valign="top">
+  <td width="33%" valign="top" style="border: none;">
     
 ### Programming Languages
 <p>
@@ -37,6 +37,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" width="40" height="40"/>
 </p>
 
+  </td>
+  <td width="33%" valign="top" style="border: none;">
+    
 ### Frontend
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40"/>
@@ -47,6 +50,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="40" height="40"/>
 </p>
 
+  </td>
+  <td width="33%" valign="top" style="border: none;">
+    
 ### Backend & Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="40"/>
@@ -57,7 +63,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
 </p>
 
   </td>
-  <td width="50%" valign="top">
+</tr>
+<tr>
+  <td width="33%" valign="top" style="border: none;">
     
 ### Databases
 <p>
@@ -68,6 +76,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
+  </td>
+  <td width="33%" valign="top" style="border: none;">
+    
 ### DevOps & Tools
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="40" height="40"/>
@@ -78,6 +89,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="40" height="40"/>
 </p>
 
+  </td>
+  <td width="33%" valign="top" style="border: none;">
+    
 ### Operating Systems
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40"/>
