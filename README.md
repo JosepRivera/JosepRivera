@@ -112,6 +112,7 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosepRivera&theme=radical&card_width=300&langs_count=12" alt="Top Languages" style="margin-top: 35px;" />
 </div>
 <br clear="both"/>
+
 ---
 
 <div align="center">
