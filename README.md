@@ -109,7 +109,7 @@ I'm a second-year **Software Design & Development** student passionate about cre
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JosepRivera&show_icons=true&theme=radical" alt="GitHub Stats" />
-
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosepRivera&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <br clear="both"/>
 
