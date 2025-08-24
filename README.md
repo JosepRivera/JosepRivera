@@ -23,6 +23,10 @@ I'm a second-year **Software Design & Development** student passionate about cre
 
 ## 🛠️ Technologies and Tools
 
+<table>
+<tr>
+  <td width="50%" valign="top">
+    
 ### Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="40" height="40"/>
@@ -52,6 +56,9 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" width="40" height="40"/>
 </p>
 
+  </td>
+  <td width="50%" valign="top">
+    
 ### Databases
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -77,6 +84,10 @@ I'm a second-year **Software Design & Development** student passionate about cre
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" width="40" height="40"/>
 </p>
+
+  </td>
+</tr>
+</table>
 
 ---
 
