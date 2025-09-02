@@ -25,7 +25,7 @@ I'm a second-year **Software Design & Development** student passionate about cre
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JosepRivera&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JosepRivera&theme=radical&card_width=300" alt="GitHub Streak" style="margin-top: 35px;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosepRivera&theme=radical&layout=compact&card_width=300" alt="Top Languages Compact" style="margin-top: 35px;" />
 </div>
 <br clear="both"/>
 
