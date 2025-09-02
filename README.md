@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-I'm a second-year **Software Design & Development** student passionate about creating innovative web solutions. I love exploring new technologies and working on challenging projects that allow me to grow as a developer.
+I'm a **Software Design & Development** student in my final year, passionate about creating innovative web solutions. I love exploring new technologies and working on challenging projects that allow me to grow as a developer.
 
-- 🎓 **Major:** Software Design & Development (2nd year)
+- 🎓 **Major:** Software Design & Development
 - 💼 **Focus:** Backend Development
 - 📧 **Contact:** [josepdanton1518@gmail.com](mailto:josepdanton1518@gmail.com)
 - 🌐 **Portfolio:** [View my work](https://portfolio-zeta-five-f7bmxvyh4b.vercel.app/)
