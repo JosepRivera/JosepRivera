@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Lima,%20Peru&descSize=15&descAlignY=55" />
 </div>
 
-# 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Josep+Rivera;Software+Design+%26+Development;Backend+Developer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
