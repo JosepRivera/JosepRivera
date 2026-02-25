@@ -47,7 +47,7 @@ I love learning new technologies, collaborating with other developers, and contr
 
 ### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,prisma" />
 </div>
 
 ### 🧪 Testing & DevOps
