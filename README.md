@@ -21,7 +21,7 @@ I love learning new technologies, collaborating with other developers, and contr
 <div align="center">
 
 [![Vercel](https://img.shields.io/badge/Vercel-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=2d2d2d)](https://portfolio-zeta-five-f7bmxvyh4b.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=2d2d2d)](mailto:josepdanton1518@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=2d2d2d)](mailto:josepdanton1518@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=2d2d2d)](https://www.linkedin.com/in/rivera-josep)
 
 </div>
