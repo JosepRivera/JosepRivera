@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20things%20that%20matter.&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Lima,%20Peru&descSize=15&descAlignY=55" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Josep+Rivera;Software+Design+%26+Development;%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;Backend+Developer;Scalable+Systems+Builder;System+Design+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,7 +22,7 @@ I love learning new technologies, collaborating with other developers, and contr
 
 [![Vercel](https://img.shields.io/badge/Vercel-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=2d2d2d)](https://portfolio-zeta-five-f7bmxvyh4b.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=2d2d2d)](mailto:josepdanton1518@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=2d2d2d)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=2d2d2d)](www.linkedin.com/in/rivera-josep)
 
 </div>
 
