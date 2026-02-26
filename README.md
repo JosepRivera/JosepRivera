@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20things%20that%20matter.&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Lima,%20Peru&descSize=15&descAlignY=55" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;Backend+Developer;Scalable+Systems+Builder;Software+Designer+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;Backend+Engineer;Software+Designer+%26+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -57,16 +54,16 @@ I love learning new technologies, collaborating with other developers, and contr
 
 ### 🛠️ Tools & IDEs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,phpstorm,webstorm,postman,figma,npm,pnpm,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,phpstorm,webstorm,postman,figma,npm,pnpm,git,github,vercel" />
 </div>
 
 ### 🖥️ OS & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,apple,androidstudio,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,apple,aws" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20build%20something%20great.&fontSize=20&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Software%20is%20eating%20the%20world.&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=60&desc=Backend%20Developer%20|%20Lima,%20Peru&descSize=15&descAlignY=80" />
 </div>
