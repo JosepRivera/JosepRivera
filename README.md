@@ -52,11 +52,6 @@ I love learning new technologies, collaborating with other developers, and contr
   <img src="https://skillicons.dev/icons?i=jest,jenkins,docker,gradle" />
 </div>
 
-### 🛠️ Tools & IDEs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,phpstorm,webstorm,postman,figma,npm,pnpm,git,github,vercel" />
-</div>
-
 ### 🖥️ OS & Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,apple,aws" />
