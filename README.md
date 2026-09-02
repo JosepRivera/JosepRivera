@@ -23,20 +23,20 @@ Want to see more of my work? Check out my portfolio → [rivera-dev.vercel.app](
 
 ## Featured Projects
 
-### 🏋️ Overload
+<div align="center">
+
+### 🏋️ [Overload](https://github.com/JosepRivera/overload-server)
 Strength-training platform that turns every logged set into data — volume moved, personal records, and estimated 1RM.
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&q=80" width="45%" alt="Overload mobile demo" />
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&q=80" width="45%" alt="Overload API" />
-</div>
+<img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&q=80" width="45%" alt="Overload mobile demo" />
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&q=80" width="45%" alt="Overload API" />
 
-### 🍽️ SmartBite
+### 🍽️ [SmartBite](https://github.com/JosepRivera/smartbite-server)
 Restaurant management system in production — sales by role, automatic stock discount by recipe, immutable cash closing, and an AI assistant for business questions.
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80" width="45%" alt="SmartBite dashboard demo" />
-  <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80" width="45%" alt="SmartBite mobile app" />
+<img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80" width="45%" alt="SmartBite dashboard demo" />
+<img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80" width="45%" alt="SmartBite mobile app" />
+
 </div>
 
 ## GitHub Streak
