@@ -39,6 +39,12 @@ Restaurant management system in production — sales by role, automatic stock di
 
 </div>
 
+## GitHub Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JosepRivera/JosepRivera/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
 ## GitHub Streak
 
 <div align="center">
