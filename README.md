@@ -39,17 +39,13 @@ Restaurant management system in production — sales by role, automatic stock di
 
 </div>
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JosepRivera/JosepRivera/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-## GitHub Streak
-
-<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=JosepRivera&theme=github-dark-blue&hide_border=true" height="170" />
-</div>
+</div>>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=footer&text=Systems%20that%20scale%20start%20with%20decisions,%20not%20syntax.&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=60&desc=Concepts%20over%20code.%20Foundations%20over%20frameworks.&descSize=15&descAlignY=80" />
