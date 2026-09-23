@@ -31,11 +31,11 @@ Strength-training platform that turns every logged set into data — volume move
 <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&q=80" width="45%" alt="Overload mobile demo" />
 <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&q=80" width="45%" alt="Overload API" />
 
-### 🍽️ [SmartBite](https://github.com/JosepRivera/smartbite-server)
-Restaurant management system in production — sales by role, automatic stock discount by recipe, immutable cash closing, and an AI assistant for business questions.
+### 🥬 [Kilo](https://kilo-docs-mu.vercel.app/producto/vision-general/)
+Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop buying supplies "by eye" — voice logging of daily consumption, Holt-Winters demand forecasting, per-item purchase recommendations, batch expiry alerts, and month-by-month savings tracking.
 
-<img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80" width="45%" alt="SmartBite dashboard demo" />
-<img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80" width="45%" alt="SmartBite mobile app" />
+<img src="assets/kilo-app.jpg" width="45%" alt="Kilo mobile app: today's purchase list, supplies, and savings" />
+<img src="assets/kilo-docs.jpg" width="45%" alt="Kilo documentation site" />
 
 </div>
 
