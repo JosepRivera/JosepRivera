@@ -34,8 +34,8 @@ Strength-training platform that turns every logged set into data — volume move
 ### 🥬 [Kilo](https://kilo-docs-mu.vercel.app/producto/vision-general/)
 Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop buying supplies "by eye" — voice logging of daily consumption, Holt-Winters demand forecasting, per-item purchase recommendations, batch expiry alerts, and month-by-month savings tracking.
 
-<img src="assets/kilo-app.jpg" width="45%" alt="Kilo mobile app: today's purchase list, supplies, and savings" />
-<img src="assets/kilo-docs.jpg" width="45%" alt="Kilo documentation site" />
+<img src="assets/kilo-mobile-screens.jpg" width="45%" alt="Kilo mobile app: today's purchase list, supplies, and savings" />
+<img src="assets/kilo-docs-site.jpg" width="45%" alt="Kilo documentation site" />
 
 </div>
 
