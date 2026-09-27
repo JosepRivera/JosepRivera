@@ -28,7 +28,7 @@ Want to see more of my work? Check out my portfolio → [danton-rm.vercel.app](h
 <td width="50%" valign="top">
 <a href="https://github.com/JosepRivera/overload-server"><img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=450&fit=crop&q=80" width="100%" alt="Overload" /></a>
 
-### 🏋️ [Overload](https://github.com/JosepRivera/overload-server)
+<h3 align="center"><a href="https://github.com/JosepRivera/overload-server">🏋️ Overload</a></h3>
 
 Strength-training platform that turns every logged set into data — volume moved, personal records, and estimated 1RM.
 
@@ -36,9 +36,9 @@ Strength-training platform that turns every logged set into data — volume move
 <td width="50%" valign="top">
 <a href="https://kilo-docs-mu.vercel.app/producto/vision-general/"><img src="assets/kilo-mobile-screens.jpg" width="100%" alt="Kilo mobile app: today's purchase list, supplies, and savings" /></a>
 
-### 🥬 [Kilo](https://kilo-docs-mu.vercel.app/producto/vision-general/)
+<h3 align="center"><a href="https://kilo-docs-mu.vercel.app/producto/vision-general/">🥬 Kilo</a></h3>
 
-Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop buying supplies "by eye" — voice logging, Holt-Winters demand forecasting, purchase recommendations, expiry alerts, and savings tracking.
+Mobile app that helps small restaurants in Lima stop buying supplies "by eye" — voice logging, Holt-Winters demand forecasting, purchase recommendations, expiry alerts, and savings tracking.
 
 </td>
 </tr>
