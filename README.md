@@ -23,21 +23,26 @@ Want to see more of my work? Check out my portfolio → [danton-rm.vercel.app](h
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/JosepRivera/overload-server"><img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=450&fit=crop&q=80" width="100%" alt="Overload" /></a>
 
 ### 🏋️ [Overload](https://github.com/JosepRivera/overload-server)
+
 Strength-training platform that turns every logged set into data — volume moved, personal records, and estimated 1RM.
 
-<img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&q=80" width="45%" alt="Overload mobile demo" />
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&q=80" width="45%" alt="Overload API" />
+</td>
+<td width="50%" valign="top">
+<a href="https://kilo-docs-mu.vercel.app/producto/vision-general/"><img src="assets/kilo-mobile-screens.jpg" width="100%" alt="Kilo mobile app: today's purchase list, supplies, and savings" /></a>
 
 ### 🥬 [Kilo](https://kilo-docs-mu.vercel.app/producto/vision-general/)
-Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop buying supplies "by eye" — voice logging of daily consumption, Holt-Winters demand forecasting, per-item purchase recommendations, batch expiry alerts, and month-by-month savings tracking.
 
-<img src="assets/kilo-mobile-screens.jpg" width="45%" alt="Kilo mobile app: today's purchase list, supplies, and savings" />
-<img src="assets/kilo-docs-site.jpg" width="45%" alt="Kilo documentation site" />
+Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop buying supplies "by eye" — voice logging, Holt-Winters demand forecasting, purchase recommendations, expiry alerts, and savings tracking.
 
-</div>
+</td>
+</tr>
+</table>
 
 ## GitHub Activity
 
