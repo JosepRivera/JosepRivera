@@ -44,6 +44,13 @@ Mobile app that helps small restaurants in Lima stop buying supplies "by eye" â€
 </tr>
 </table>
 
+## Stats & Languages
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=JosepRivera&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;hide_border=true&amp;border_radius=8&amp;card_width=420&amp;show_icons=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;show=contributions,prs_merged_percentage&amp;hide_rank=true&amp;custom_title=Stats" width="49%" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JosepRivera&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;hide_border=true&amp;border_radius=8&amp;card_width=420&amp;layout=compact&amp;hide=mdx,css,html&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Top%20Languages" width="49%" alt="Top languages" />
+</div>
+
 ## GitHub Activity
 
 <div align="center">
