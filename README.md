@@ -42,7 +42,7 @@ Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop 
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-three-chi.vercel.app/graph?username=JosepRivera&hide_title=true&grid=false&days=60&height=300&radius=8" width="100%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph-three-chi.vercel.app/graph?username=JosepRivera&hide_title=true&grid=false&radius=8" width="100%" alt="Activity graph" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=footer&text=Systems%20that%20scale%20start%20with%20decisions,%20not%20syntax.&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=60&desc=Concepts%20over%20code.%20Foundations%20over%20frameworks.&descSize=15&descAlignY=80" />
