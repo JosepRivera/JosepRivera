@@ -42,9 +42,7 @@ Multiplatform app (Android, iOS, Web) that helps small restaurants in Lima stop 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=JosepRivera&theme=github-dark-blue&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosepRivera&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity graph" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=footer&text=Systems%20that%20scale%20start%20with%20decisions,%20not%20syntax.&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=60&desc=Concepts%20over%20code.%20Foundations%20over%20frameworks.&descSize=15&descAlignY=80" />
