@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;Full+Stack+Developer;Software+Designer+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=800&lines=Concepts+over+code.+Foundations+over+frameworks.;Backend+Developer;Software+Designer+%26+Developer" alt="Typing SVG" />
 </div>
 
 ## About Me
@@ -8,15 +8,13 @@
 <tr>
 <td width="65%">
 
-Full Stack Developer with hands-on experience building software for clients across different industries — I enjoy learning what each project demands and prioritizing maintainable architecture, guided by clean software engineering practices, over quick fixes.
-
-Outside of code, you'll find me at the gym or gaming with friends — balance keeps the ideas fresh.
+Backend Developer with experience building software for clients across different industries. I like to understand what each project needs, make well-grounded technical decisions, and build scalable, maintainable solutions that put long-term software quality first.
 
 Want to see more of my work? Check out my portfolio → [danton-rm.vercel.app](https://danton-rm.vercel.app)
 
 </td>
 <td width="35%" align="center">
-<img src="https://media.giphy.com/media/G6TgcESZt8FFk8XV7K/giphy.gif" width="220" alt="Cat eating chips gif" />
+<img src="https://media.giphy.com/media/zaNNXbxNFwsM4fwN2R/giphy.gif" width="220" alt="Void meme gif" />
 </td>
 </tr>
 </table>
